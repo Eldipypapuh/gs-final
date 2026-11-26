@@ -1,0 +1,15 @@
+-El scrum es un marco de trabajo en el cual por el cual un software se crea por partes divididas en un equipo 
+siendo que cada integrante complementa mediante sprints las partes del software en el que se trabaja,
+
+
+-Entre los roles clave estan el PO (product owner), Scrum Master y Development team
+ 
+
+-Los eventos pueden ser Sprint planning, Daily scrum, Sprint review, Sprint retrospective
+
+
+-Los artefactos pueden ser Product Backlog, Sprint Backlog e Incremento
+
+
+Un sprint es un ciclo de entre 1 y 4 semanas donde se planifica, se trabaja y todos los dias se sincroniza para crear un
+incremento que pueda ser entregado, luego este es revisado y se delibera si se debe mejorar, luego se crea otro sprint.
