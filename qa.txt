@@ -1,0 +1,8 @@
+-El QA es el control de calidad son procesos que se utilizan para asegurar la calidad con la que el software se desarrolle
+este previene problemas y ayuda a la hora de construir el software y esta presente durante todo el desarrollo
+
+
+-El testing consiste en pruebas constantes durante el desarrollo del software y sirve para detectar errores
+y comprobar como estos se comportan este detecta errores los cuales y se encargan de controlar que el sistema 
+cumple requisitos y reglas de negocio
+
